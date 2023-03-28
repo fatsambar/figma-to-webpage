@@ -1,0 +1,343 @@
+
+html {
+    font-size: 16px;
+    
+
+}
+
+body {
+background-color: #FFF8F0;
+font-family: "Inter", sans-serif;
+font-weight: 400;
+line-height: 24px;
+color: #552060;
+margin: 0;
+padding: 0;
+
+
+}
+
+
+h1 {
+    font-family: "League Spartan", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 50px;
+    color: #190D37;
+    margin-top: 10px;
+    margin-bottom: 32px;
+}
+
+h2 {
+
+    font-family: "League Spartan", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+    color: #000;
+    
+    padding-top: 0px;
+    padding-bottom: 8px;
+    margin: 0 auto;
+
+}
+
+.bigtext {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color: #331E6A;
+
+}
+
+.smalltext{
+
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: left;
+    color: #000;
+
+}
+
+.small-img {
+    height: 12px;
+    width: 12px;
+    left: 3px;
+    top: 3px;
+    border-radius: 0px;
+ 
+}
+
+.section-header-small{
+
+    height: 18px;
+    margin: 0 auto;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    color: #2858FF;
+    text-transform: uppercase;
+}
+
+.section-description {
+
+    height: 81px;
+    width: 686px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 10px;
+
+
+}
+
+.skill-card {
+    height: 291px;
+    width: 300px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    float:left;
+    width:33%;
+
+
+
+}
+
+.skill-card-heading {
+    height: 27px;
+    width: 280px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    color: #000000;
+    text-transform: uppercase;
+
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 0;
+
+}
+
+.skill-card-description {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #55206D;
+
+    padding-top:0;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+
+.project-name-card {
+    display: flex;
+    max-width: 1020px;
+    margin: 0 auto;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.project-name-icon {
+
+    height: 160px;
+    width: 160px;
+    border-radius: 10px;
+    width: 18%;
+    float:left;
+   
+
+}
+
+.project-name-text {
+
+    height: 160px;
+    
+    width: 75%;
+    padding-left: 20px;
+
+}
+
+
+
+.project-name-heading {
+
+    height: 27px;
+    width: 125px;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: left;
+    color: #291854;
+
+}
+
+.project-name-description {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+
+
+
+}
+
+.project-link {
+
+    height: 17px;
+    width: 79px;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    text-align: left;
+
+    padding-top: 3.5px;
+    padding-right: 3.5px;
+
+
+}
+
+
+
+.project-name-icon-text {
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    text-align: center;
+    margin: 0 auto;
+    color: #FFF;
+
+    padding-top: 40px;
+
+}
+
+
+
+
+
+#project-name-wrapper {
+    width: 100%;
+    max-width:1020px;
+    margin: 0 auto;
+    padding: 0;
+ 
+}
+
+#hero-section {
+    display: flex;
+    width: 100%;
+    max-width:1440px;
+    margin: 0 auto;
+}
+
+#hero-text {
+    width: 50%;
+    padding: 32px 20px 32px 20px;
+}
+
+
+#hi-and-name {
+    margin-top: 52px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    text-align: left;
+
+}
+
+
+#hero-img-wrapper {
+    width: 50%;
+}
+
+#hero-img {
+    width: 100%;
+}
+
+#contact-button {
+    height: 44px;
+    width: 138px;
+    border-radius: 4px;
+    background-color: #2F2F2F;
+
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 38px;
+    color:#FFFFFF;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+
+#what-i-do {
+    width: 100%;
+    max-width:1440px;
+    margin: 0 auto;
+    padding-top: 90px;
+}
+
+#skill-card-wrapper {
+    display: flex;
+    width: 100%;
+    max-width:1020px;
+    margin: 0 auto;
+ 
+}
+
+
+#my-projects {
+
+    width: 100%;
+    max-width:1440px;
+    margin: 0 auto;
+    padding-top: 90px;
+}
+
+
+
+
+#footer {
+    max-width: 1440px;
+    height: 58px;
+    background-color: #000;
+
+    width: 100%;
+    margin: 0 auto;
+
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: #FFF;
+
+   }
+
+#footer-text {
+    height: 18px;
+    width: 235px;
+    text-align: center;
+    width: 100%;
+    margin: 20px auto;
+    padding: 15px;
+   
+
+}
