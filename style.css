@@ -260,6 +260,8 @@ h2 {
     font-weight: 500;
     line-height: 19px;
     text-align: left;
+    color:#291854;
+
 
 }
 
@@ -285,6 +287,8 @@ h2 {
     color:#FFFFFF;
     text-align: center;
     margin-top: 20px;
+    margin-left: 10px;
+    margin: 0 auto;
 
 }
 
