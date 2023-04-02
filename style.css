@@ -340,7 +340,7 @@ a:active {
 
 #skill-card-wrapper {
     display: flex;
-    justify-content: ;
+    justify-content: space-between;
     width: 100%;
     max-width:1020px;
 
