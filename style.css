@@ -43,6 +43,27 @@ h2 {
 
 }
 
+a:link {
+    color: #6a87a3;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #802c88;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #6a87a3;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #6a87a3;
+    text-decoration: none;
+}
+
+
 .bigtext {
     font-family: "Poppins", sans-serif;
     font-size: 18px;
