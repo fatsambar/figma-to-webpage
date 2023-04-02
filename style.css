@@ -131,6 +131,7 @@ a:active {
     background: #FFFFFF;
     padding-left: 20px;
     padding-right: 20px;
+    margin: 10;
 
     float:left;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
@@ -140,10 +141,11 @@ a:active {
 .skill-card:hover {
     height: 291px;
     width: 300px;
-    border-radius: 5px;
+    border-radius: 10px;
     background: #FFFFFF;
     padding-left: 20px;
     padding-right: 20px;
+    margin: 0;
 
     float:left;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
@@ -343,7 +345,7 @@ a:active {
     justify-content: space-between;
     width: 100%;
     max-width:1020px;
-    margin: 0 ;
+    margin: 0 auto;
 
  
 }
