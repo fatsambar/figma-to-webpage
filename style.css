@@ -28,6 +28,10 @@ h1 {
     margin-bottom: 32px;
 }
 
+h1 span {
+    font-weight: 400 important;
+}
+
 h2 {
 
     font-family: "League Spartan", sans-serif;
