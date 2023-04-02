@@ -206,7 +206,7 @@ h2 {
     font-weight: 500;
     line-height: 17px;
     text-align: left;
-    color: #6A87A3;
+    color: #6A87A3 !Important;
     padding-top: 3.5px;
     padding-right: 3.5px;
 
